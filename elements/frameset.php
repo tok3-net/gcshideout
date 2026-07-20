@@ -1,0 +1,8 @@
+<?php
+$frameset= "
+<FRAMESET  COLS='20%,80%'>
+  <FRAME NAME='menu' SRC='".$menusrc."' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='auto' FRAMEBORDER='0'>
+  <FRAME NAME='main' SRC='".$mainsrc."' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='auto' FRAMEBORDER='0'>
+</FRAMESET>
+";
+?>
