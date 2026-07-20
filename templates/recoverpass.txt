@@ -1,0 +1,14 @@
+Dear FNAME
+
+This email contains an authorisation code which will change the password
+on your DISCOBOARDNAME member account.
+
+Your authorisation code is TOKEN - note that this is NOT a password.
+
+You must go to the following URL to have your password changed and the 
+new password sent to you via email. If the URL is broken over more than
+one line, you must copy everything between < and > to your web browser.
+
+ < CHANGEURL >
+ 
+Thanks The GCs Hideout Staff!

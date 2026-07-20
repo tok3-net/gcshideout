@@ -1,0 +1,12 @@
+Dear FNAME
+
+Your DISCOBOARDNAME account has been created.
+
+ Username: USERNAME
+ Password: PASSWORD
+
+Login via this URL:
+
+  DBROOT
+
+Thanks The GCs Hideout Staff!

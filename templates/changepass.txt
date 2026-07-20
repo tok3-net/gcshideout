@@ -1,0 +1,10 @@
+Dear FNAME
+
+The password for your DISCOBOARDNAME member account has been changed.
+
+Username: USERNAME
+Password: PASSWORD
+
+Thanks!
+
+The GCs Hideout Staff!
